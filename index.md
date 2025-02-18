@@ -1,8 +1,8 @@
-## NLP Stock Market News Sentiment Analysis and Summarization
+## Selected projects in data science, machine learning and NLP
 
 ---
 
-### Category Name 1 
+### NLP Stock Market News Sentiment Analysis and Summarization
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
